@@ -1,5 +1,6 @@
 This is feature 2
 
+<<<<<<< HEAD
 
 Thoda aur kaam 
 
@@ -7,5 +8,8 @@ Thoda aur kaam
 Thoda aur kaam achhe se
 
 
+=======
+thoda aur kaam kiya
+>>>>>>> 5948f8f4c0f4749ec81916e24f749e7439386a13
 
 aur achhe se
